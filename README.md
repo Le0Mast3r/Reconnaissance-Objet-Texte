@@ -12,7 +12,7 @@ technologies et d’algorithmes.<br><br>
 <ul>
 <li>Faire la reconnaissance d'objet [image et vidéo]</li>
 <li>Faire la reconnaissance de texte</li>
-<li>Faire la reconnaissance de texte</li>
+<li>Faire la reconnaissance de Formes</li>
 <li>Faire la reconnaissance des couleurs</li>
 </ul>
 <br>
